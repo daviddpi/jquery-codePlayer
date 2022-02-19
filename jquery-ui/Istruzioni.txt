@@ -1,0 +1,8 @@
+1) inserire nella cartella tutto il file jquery-ui
+2) nell head dell html inserire:
+
+	<script src="jquery-ui/jquery-ui.js"></script> poi
+	<link rel="stylesheet" href="jquery-ui/jquery-ui.css">
+
+N.B! : Bisogna ovviamenete inserire il link di jquery nell head per supportare il plugin e poi inserire lo script nel body
+	
